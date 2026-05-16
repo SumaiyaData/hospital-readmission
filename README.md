@@ -18,7 +18,7 @@ A machine learning pipeline that predicts hospital readmission risk scores using
 | Linear Regression | 0.809 | 0.809 | 0.098 |
 | Ridge | 0.809 | 0.809 | 0.098 |
 
-![Model Results](outputs/model_results.png)
+![Model Results]([outputs/model_results.png](https://github.com/SumaiyaData/hospital-readmission/blob/main/download.png))
 
 ---
 
